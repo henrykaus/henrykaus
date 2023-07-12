@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ☕
 
 I'm Henry — a Computer Science student at Portland State slated to graduate in March 2024. Through being admitted into the PSU Cooperative Education Program (PCEP) internship, I have been given the opportunity to work with several Portland-based tech companies through varying 6-month positions.
 
